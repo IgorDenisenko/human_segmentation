@@ -22,7 +22,7 @@
 
 # Решение
 
-[Ноутбук с полностью описанным решением](https://github.com/IgorDenisenko/human_segmentation/edit/master/README.md)
+[Ноутбук с полностью описанным решением](https://nbviewer.jupyter.org/github/IgorDenisenko/human_segmentation/blob/master/notebooks/Human_Segmentation%28correct%29.ipynb)
 
 Решение(основные идеи):
 
